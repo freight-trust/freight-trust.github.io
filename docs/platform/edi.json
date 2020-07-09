@@ -29,10 +29,7 @@
     },
     "Groups": [
       {
-        "Transactions": [
-          {},
-          {}
-        ],
+        "Transactions": [{}, {}],
         "GETrailers": [
           {
             "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
@@ -55,10 +52,7 @@
         }
       },
       {
-        "Transactions": [
-          {},
-          {}
-        ],
+        "Transactions": [{}, {}],
         "GETrailers": [
           {
             "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
@@ -148,10 +142,7 @@
     },
     "Groups": [
       {
-        "Transactions": [
-          {},
-          {}
-        ],
+        "Transactions": [{}, {}],
         "GETrailers": [
           {
             "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
@@ -174,10 +165,7 @@
         }
       },
       {
-        "Transactions": [
-          {},
-          {}
-        ],
+        "Transactions": [{}, {}],
         "GETrailers": [
           {
             "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
