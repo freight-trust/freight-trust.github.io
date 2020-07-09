@@ -50,5 +50,5 @@ rules:
 
 # You can skip checking files.
 exclude:
-   - node_modules
-   - vendor
+  - node_modules
+  - vendor
