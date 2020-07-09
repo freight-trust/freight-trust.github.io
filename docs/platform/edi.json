@@ -1,195 +1,240 @@
- [ {
-  "DataElementDelimiter" : "DataElementDelimiter",
-  "SegmentDelimiter" : "SegmentDelimiter",
-  "TA1" : {
-    "InterchangeDate_2" : "InterchangeDate_2",
-    "InterchangeAcknowledgmentCode_4" : "InterchangeAcknowledgmentCode_4",
-    "InterchangeTime_3" : "InterchangeTime_3",
-    "InterchangeControlNumber_1" : "InterchangeControlNumber_1",
-    "InterchangeNoteCode_5" : "InterchangeNoteCode_5"
-  },
-  "ISA" : {
-    "InterchangeReceiverID_8" : "InterchangeReceiverID_8",
-    "SenderIDQualifier_5" : "SenderIDQualifier_5",
-    "AcknowledgementRequested_14" : "AcknowledgementRequested_14",
-    "SecurityInformation_4" : "SecurityInformation_4",
-    "InterchangeDate_9" : "InterchangeDate_9",
-    "InterchangeControlStandardsIdentifier_11" : "InterchangeControlStandardsIdentifier_11",
-    "ComponentElementSeparator_16" : "ComponentElementSeparator_16",
-    "SecurityInformationQualifier_3" : "SecurityInformationQualifier_3",
-    "AuthorizationInformationQualifier_1" : "AuthorizationInformationQualifier_1",
-    "InterchangeControlNumber_13" : "InterchangeControlNumber_13",
-    "InterchangeSenderID_6" : "InterchangeSenderID_6",
-    "UsageIndicator_15" : "UsageIndicator_15",
-    "ReceiverIDQualifier_7" : "ReceiverIDQualifier_7",
-    "InterchangeTime_10" : "InterchangeTime_10",
-    "AuthorizationInformation_2" : "AuthorizationInformation_2",
-    "InterchangeControlVersionNumber_12" : "InterchangeControlVersionNumber_12"
-  },
-  "Groups" : [ {
-    "Transactions" : [ { }, { } ],
-    "GETrailers" : [ {
-      "NumberOfIncludedSets_1" : "NumberOfIncludedSets_1",
-      "GroupControlNumber_2" : "GroupControlNumber_2"
-    }, {
-      "NumberOfIncludedSets_1" : "NumberOfIncludedSets_1",
-      "GroupControlNumber_2" : "GroupControlNumber_2"
-    } ],
-    "GS" : {
-      "Time_5" : "Time_5",
-      "ReceiverIDCode_3" : "ReceiverIDCode_3",
-      "CodeIdentifyingInformationType_1" : "CodeIdentifyingInformationType_1",
-      "VersionAndRelease_8" : "VersionAndRelease_8",
-      "SenderIDCode_2" : "SenderIDCode_2",
-      "Date_4" : "Date_4",
-      "TransactionTypeCode_7" : "TransactionTypeCode_7",
-      "GroupControlNumber_6" : "GroupControlNumber_6"
+[
+  {
+    "DataElementDelimiter": "DataElementDelimiter",
+    "SegmentDelimiter": "SegmentDelimiter",
+    "TA1": {
+      "InterchangeDate_2": "InterchangeDate_2",
+      "InterchangeAcknowledgmentCode_4": "InterchangeAcknowledgmentCode_4",
+      "InterchangeTime_3": "InterchangeTime_3",
+      "InterchangeControlNumber_1": "InterchangeControlNumber_1",
+      "InterchangeNoteCode_5": "InterchangeNoteCode_5"
+    },
+    "ISA": {
+      "InterchangeReceiverID_8": "InterchangeReceiverID_8",
+      "SenderIDQualifier_5": "SenderIDQualifier_5",
+      "AcknowledgementRequested_14": "AcknowledgementRequested_14",
+      "SecurityInformation_4": "SecurityInformation_4",
+      "InterchangeDate_9": "InterchangeDate_9",
+      "InterchangeControlStandardsIdentifier_11": "InterchangeControlStandardsIdentifier_11",
+      "ComponentElementSeparator_16": "ComponentElementSeparator_16",
+      "SecurityInformationQualifier_3": "SecurityInformationQualifier_3",
+      "AuthorizationInformationQualifier_1": "AuthorizationInformationQualifier_1",
+      "InterchangeControlNumber_13": "InterchangeControlNumber_13",
+      "InterchangeSenderID_6": "InterchangeSenderID_6",
+      "UsageIndicator_15": "UsageIndicator_15",
+      "ReceiverIDQualifier_7": "ReceiverIDQualifier_7",
+      "InterchangeTime_10": "InterchangeTime_10",
+      "AuthorizationInformation_2": "AuthorizationInformation_2",
+      "InterchangeControlVersionNumber_12": "InterchangeControlVersionNumber_12"
+    },
+    "Groups": [
+      {
+        "Transactions": [
+          {},
+          {}
+        ],
+        "GETrailers": [
+          {
+            "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
+            "GroupControlNumber_2": "GroupControlNumber_2"
+          },
+          {
+            "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
+            "GroupControlNumber_2": "GroupControlNumber_2"
+          }
+        ],
+        "GS": {
+          "Time_5": "Time_5",
+          "ReceiverIDCode_3": "ReceiverIDCode_3",
+          "CodeIdentifyingInformationType_1": "CodeIdentifyingInformationType_1",
+          "VersionAndRelease_8": "VersionAndRelease_8",
+          "SenderIDCode_2": "SenderIDCode_2",
+          "Date_4": "Date_4",
+          "TransactionTypeCode_7": "TransactionTypeCode_7",
+          "GroupControlNumber_6": "GroupControlNumber_6"
+        }
+      },
+      {
+        "Transactions": [
+          {},
+          {}
+        ],
+        "GETrailers": [
+          {
+            "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
+            "GroupControlNumber_2": "GroupControlNumber_2"
+          },
+          {
+            "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
+            "GroupControlNumber_2": "GroupControlNumber_2"
+          }
+        ],
+        "GS": {
+          "Time_5": "Time_5",
+          "ReceiverIDCode_3": "ReceiverIDCode_3",
+          "CodeIdentifyingInformationType_1": "CodeIdentifyingInformationType_1",
+          "VersionAndRelease_8": "VersionAndRelease_8",
+          "SenderIDCode_2": "SenderIDCode_2",
+          "Date_4": "Date_4",
+          "TransactionTypeCode_7": "TransactionTypeCode_7",
+          "GroupControlNumber_6": "GroupControlNumber_6"
+        }
+      }
+    ],
+    "IEATrailers": [
+      {
+        "InterchangeControlNumber_2": "InterchangeControlNumber_2",
+        "NumberOfIncludedGroups_1": "NumberOfIncludedGroups_1"
+      },
+      {
+        "InterchangeControlNumber_2": "InterchangeControlNumber_2",
+        "NumberOfIncludedGroups_1": "NumberOfIncludedGroups_1"
+      }
+    ],
+    "Result": {
+      "Status": "Status",
+      "Details": [
+        {
+          "Status": "Status",
+          "Message": "Message",
+          "SegmentId": "SegmentId",
+          "TransactionIndex": 1,
+          "TransactionRef": "TransactionRef",
+          "Value": "Value",
+          "Index": 6,
+          "DataElementIndex": 5
+        },
+        {
+          "Status": "Status",
+          "Message": "Message",
+          "SegmentId": "SegmentId",
+          "TransactionIndex": 1,
+          "TransactionRef": "TransactionRef",
+          "Value": "Value",
+          "Index": 6,
+          "DataElementIndex": 5
+        }
+      ],
+      "LastIndex": 0
     }
-  }, {
-    "Transactions" : [ { }, { } ],
-    "GETrailers" : [ {
-      "NumberOfIncludedSets_1" : "NumberOfIncludedSets_1",
-      "GroupControlNumber_2" : "GroupControlNumber_2"
-    }, {
-      "NumberOfIncludedSets_1" : "NumberOfIncludedSets_1",
-      "GroupControlNumber_2" : "GroupControlNumber_2"
-    } ],
-    "GS" : {
-      "Time_5" : "Time_5",
-      "ReceiverIDCode_3" : "ReceiverIDCode_3",
-      "CodeIdentifyingInformationType_1" : "CodeIdentifyingInformationType_1",
-      "VersionAndRelease_8" : "VersionAndRelease_8",
-      "SenderIDCode_2" : "SenderIDCode_2",
-      "Date_4" : "Date_4",
-      "TransactionTypeCode_7" : "TransactionTypeCode_7",
-      "GroupControlNumber_6" : "GroupControlNumber_6"
+  },
+  {
+    "DataElementDelimiter": "DataElementDelimiter",
+    "SegmentDelimiter": "SegmentDelimiter",
+    "TA1": {
+      "InterchangeDate_2": "InterchangeDate_2",
+      "InterchangeAcknowledgmentCode_4": "InterchangeAcknowledgmentCode_4",
+      "InterchangeTime_3": "InterchangeTime_3",
+      "InterchangeControlNumber_1": "InterchangeControlNumber_1",
+      "InterchangeNoteCode_5": "InterchangeNoteCode_5"
+    },
+    "ISA": {
+      "InterchangeReceiverID_8": "InterchangeReceiverID_8",
+      "SenderIDQualifier_5": "SenderIDQualifier_5",
+      "AcknowledgementRequested_14": "AcknowledgementRequested_14",
+      "SecurityInformation_4": "SecurityInformation_4",
+      "InterchangeDate_9": "InterchangeDate_9",
+      "InterchangeControlStandardsIdentifier_11": "InterchangeControlStandardsIdentifier_11",
+      "ComponentElementSeparator_16": "ComponentElementSeparator_16",
+      "SecurityInformationQualifier_3": "SecurityInformationQualifier_3",
+      "AuthorizationInformationQualifier_1": "AuthorizationInformationQualifier_1",
+      "InterchangeControlNumber_13": "InterchangeControlNumber_13",
+      "InterchangeSenderID_6": "InterchangeSenderID_6",
+      "UsageIndicator_15": "UsageIndicator_15",
+      "ReceiverIDQualifier_7": "ReceiverIDQualifier_7",
+      "InterchangeTime_10": "InterchangeTime_10",
+      "AuthorizationInformation_2": "AuthorizationInformation_2",
+      "InterchangeControlVersionNumber_12": "InterchangeControlVersionNumber_12"
+    },
+    "Groups": [
+      {
+        "Transactions": [
+          {},
+          {}
+        ],
+        "GETrailers": [
+          {
+            "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
+            "GroupControlNumber_2": "GroupControlNumber_2"
+          },
+          {
+            "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
+            "GroupControlNumber_2": "GroupControlNumber_2"
+          }
+        ],
+        "GS": {
+          "Time_5": "Time_5",
+          "ReceiverIDCode_3": "ReceiverIDCode_3",
+          "CodeIdentifyingInformationType_1": "CodeIdentifyingInformationType_1",
+          "VersionAndRelease_8": "VersionAndRelease_8",
+          "SenderIDCode_2": "SenderIDCode_2",
+          "Date_4": "Date_4",
+          "TransactionTypeCode_7": "TransactionTypeCode_7",
+          "GroupControlNumber_6": "GroupControlNumber_6"
+        }
+      },
+      {
+        "Transactions": [
+          {},
+          {}
+        ],
+        "GETrailers": [
+          {
+            "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
+            "GroupControlNumber_2": "GroupControlNumber_2"
+          },
+          {
+            "NumberOfIncludedSets_1": "NumberOfIncludedSets_1",
+            "GroupControlNumber_2": "GroupControlNumber_2"
+          }
+        ],
+        "GS": {
+          "Time_5": "Time_5",
+          "ReceiverIDCode_3": "ReceiverIDCode_3",
+          "CodeIdentifyingInformationType_1": "CodeIdentifyingInformationType_1",
+          "VersionAndRelease_8": "VersionAndRelease_8",
+          "SenderIDCode_2": "SenderIDCode_2",
+          "Date_4": "Date_4",
+          "TransactionTypeCode_7": "TransactionTypeCode_7",
+          "GroupControlNumber_6": "GroupControlNumber_6"
+        }
+      }
+    ],
+    "IEATrailers": [
+      {
+        "InterchangeControlNumber_2": "InterchangeControlNumber_2",
+        "NumberOfIncludedGroups_1": "NumberOfIncludedGroups_1"
+      },
+      {
+        "InterchangeControlNumber_2": "InterchangeControlNumber_2",
+        "NumberOfIncludedGroups_1": "NumberOfIncludedGroups_1"
+      }
+    ],
+    "Result": {
+      "Status": "Status",
+      "Details": [
+        {
+          "Status": "Status",
+          "Message": "Message",
+          "SegmentId": "SegmentId",
+          "TransactionIndex": 1,
+          "TransactionRef": "TransactionRef",
+          "Value": "Value",
+          "Index": 6,
+          "DataElementIndex": 5
+        },
+        {
+          "Status": "Status",
+          "Message": "Message",
+          "SegmentId": "SegmentId",
+          "TransactionIndex": 1,
+          "TransactionRef": "TransactionRef",
+          "Value": "Value",
+          "Index": 6,
+          "DataElementIndex": 5
+        }
+      ],
+      "LastIndex": 0
     }
-  } ],
-  "IEATrailers" : [ {
-    "InterchangeControlNumber_2" : "InterchangeControlNumber_2",
-    "NumberOfIncludedGroups_1" : "NumberOfIncludedGroups_1"
-  }, {
-    "InterchangeControlNumber_2" : "InterchangeControlNumber_2",
-    "NumberOfIncludedGroups_1" : "NumberOfIncludedGroups_1"
-  } ],
-  "Result" : {
-    "Status" : "Status",
-    "Details" : [ {
-      "Status" : "Status",
-      "Message" : "Message",
-      "SegmentId" : "SegmentId",
-      "TransactionIndex" : 1,
-      "TransactionRef" : "TransactionRef",
-      "Value" : "Value",
-      "Index" : 6,
-      "DataElementIndex" : 5
-    }, {
-      "Status" : "Status",
-      "Message" : "Message",
-      "SegmentId" : "SegmentId",
-      "TransactionIndex" : 1,
-      "TransactionRef" : "TransactionRef",
-      "Value" : "Value",
-      "Index" : 6,
-      "DataElementIndex" : 5
-    } ],
-    "LastIndex" : 0
   }
-}, {
-  "DataElementDelimiter" : "DataElementDelimiter",
-  "SegmentDelimiter" : "SegmentDelimiter",
-  "TA1" : {
-    "InterchangeDate_2" : "InterchangeDate_2",
-    "InterchangeAcknowledgmentCode_4" : "InterchangeAcknowledgmentCode_4",
-    "InterchangeTime_3" : "InterchangeTime_3",
-    "InterchangeControlNumber_1" : "InterchangeControlNumber_1",
-    "InterchangeNoteCode_5" : "InterchangeNoteCode_5"
-  },
-  "ISA" : {
-    "InterchangeReceiverID_8" : "InterchangeReceiverID_8",
-    "SenderIDQualifier_5" : "SenderIDQualifier_5",
-    "AcknowledgementRequested_14" : "AcknowledgementRequested_14",
-    "SecurityInformation_4" : "SecurityInformation_4",
-    "InterchangeDate_9" : "InterchangeDate_9",
-    "InterchangeControlStandardsIdentifier_11" : "InterchangeControlStandardsIdentifier_11",
-    "ComponentElementSeparator_16" : "ComponentElementSeparator_16",
-    "SecurityInformationQualifier_3" : "SecurityInformationQualifier_3",
-    "AuthorizationInformationQualifier_1" : "AuthorizationInformationQualifier_1",
-    "InterchangeControlNumber_13" : "InterchangeControlNumber_13",
-    "InterchangeSenderID_6" : "InterchangeSenderID_6",
-    "UsageIndicator_15" : "UsageIndicator_15",
-    "ReceiverIDQualifier_7" : "ReceiverIDQualifier_7",
-    "InterchangeTime_10" : "InterchangeTime_10",
-    "AuthorizationInformation_2" : "AuthorizationInformation_2",
-    "InterchangeControlVersionNumber_12" : "InterchangeControlVersionNumber_12"
-  },
-  "Groups" : [ {
-    "Transactions" : [ { }, { } ],
-    "GETrailers" : [ {
-      "NumberOfIncludedSets_1" : "NumberOfIncludedSets_1",
-      "GroupControlNumber_2" : "GroupControlNumber_2"
-    }, {
-      "NumberOfIncludedSets_1" : "NumberOfIncludedSets_1",
-      "GroupControlNumber_2" : "GroupControlNumber_2"
-    } ],
-    "GS" : {
-      "Time_5" : "Time_5",
-      "ReceiverIDCode_3" : "ReceiverIDCode_3",
-      "CodeIdentifyingInformationType_1" : "CodeIdentifyingInformationType_1",
-      "VersionAndRelease_8" : "VersionAndRelease_8",
-      "SenderIDCode_2" : "SenderIDCode_2",
-      "Date_4" : "Date_4",
-      "TransactionTypeCode_7" : "TransactionTypeCode_7",
-      "GroupControlNumber_6" : "GroupControlNumber_6"
-    }
-  }, {
-    "Transactions" : [ { }, { } ],
-    "GETrailers" : [ {
-      "NumberOfIncludedSets_1" : "NumberOfIncludedSets_1",
-      "GroupControlNumber_2" : "GroupControlNumber_2"
-    }, {
-      "NumberOfIncludedSets_1" : "NumberOfIncludedSets_1",
-      "GroupControlNumber_2" : "GroupControlNumber_2"
-    } ],
-    "GS" : {
-      "Time_5" : "Time_5",
-      "ReceiverIDCode_3" : "ReceiverIDCode_3",
-      "CodeIdentifyingInformationType_1" : "CodeIdentifyingInformationType_1",
-      "VersionAndRelease_8" : "VersionAndRelease_8",
-      "SenderIDCode_2" : "SenderIDCode_2",
-      "Date_4" : "Date_4",
-      "TransactionTypeCode_7" : "TransactionTypeCode_7",
-      "GroupControlNumber_6" : "GroupControlNumber_6"
-    }
-  } ],
-  "IEATrailers" : [ {
-    "InterchangeControlNumber_2" : "InterchangeControlNumber_2",
-    "NumberOfIncludedGroups_1" : "NumberOfIncludedGroups_1"
-  }, {
-    "InterchangeControlNumber_2" : "InterchangeControlNumber_2",
-    "NumberOfIncludedGroups_1" : "NumberOfIncludedGroups_1"
-  } ],
-  "Result" : {
-    "Status" : "Status",
-    "Details" : [ {
-      "Status" : "Status",
-      "Message" : "Message",
-      "SegmentId" : "SegmentId",
-      "TransactionIndex" : 1,
-      "TransactionRef" : "TransactionRef",
-      "Value" : "Value",
-      "Index" : 6,
-      "DataElementIndex" : 5
-    }, {
-      "Status" : "Status",
-      "Message" : "Message",
-      "SegmentId" : "SegmentId",
-      "TransactionIndex" : 1,
-      "TransactionRef" : "TransactionRef",
-      "Value" : "Value",
-      "Index" : 6,
-      "DataElementIndex" : 5
-    } ],
-    "LastIndex" : 0
-  }
-} ]
+]
