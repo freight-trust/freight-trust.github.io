@@ -10,314 +10,97 @@
     ]
   },
   {
-    "1": [
-      "2",
-      "100",
-      "ID",
-      "3",
-      "3",
-      "CurrencyCode"
-    ]
+    "1": ["2", "100", "ID", "3", "3", "CurrencyCode"]
   },
   {
-    "2": [
-      "3",
-      "1004",
-      "ID",
-      "1",
-      "2",
-      "PercentQualifier"
-    ]
+    "2": ["3", "1004", "ID", "1", "2", "PercentQualifier"]
   },
   {
-    "3": [
-      "4",
-      "1005",
-      "ID",
-      "4",
-      "4",
-      "HierarchicalStructureCode"
-    ]
+    "3": ["4", "1005", "ID", "4", "4", "HierarchicalStructureCode"]
   },
   {
-    "4": [
-      "5",
-      "1018",
-      "R",
-      "1",
-      "15",
-      "Exponent"
-    ]
+    "4": ["5", "1018", "R", "1", "15", "Exponent"]
   },
   {
-    "5": [
-      "6",
-      "102",
-      "ID",
-      "1",
-      "1",
-      "OwnershipCode"
-    ]
+    "5": ["6", "102", "ID", "1", "1", "OwnershipCode"]
   },
   {
-    "6": [
-      "7",
-      "1028",
-      "AN",
-      "1",
-      "38",
-      "ClaimSubmittersIdentifier"
-    ]
+    "6": ["7", "1028", "AN", "1", "38", "ClaimSubmittersIdentifier"]
   },
   {
-    "7": [
-      "8",
-      "1029",
-      "ID",
-      "1",
-      "2",
-      "ClaimStatusCode"
-    ]
+    "7": ["8", "1029", "ID", "1", "2", "ClaimStatusCode"]
   },
   {
-    "8": [
-      "9",
-      "103",
-      "AN",
-      "3",
-      "5",
-      "PackagingCode"
-    ]
+    "8": ["9", "103", "AN", "3", "5", "PackagingCode"]
   },
   {
-    "9": [
-      "10",
-      "1032",
-      "ID",
-      "1",
-      "2",
-      "ClaimFilingIndicatorCode"
-    ]
+    "9": ["10", "1032", "ID", "1", "2", "ClaimFilingIndicatorCode"]
   },
   {
-    "10": [
-      "11",
-      "1033",
-      "ID",
-      "1",
-      "2",
-      "ClaimAdjustmentGroupCode"
-    ]
+    "10": ["11", "1033", "ID", "1", "2", "ClaimAdjustmentGroupCode"]
   },
   {
-    "11": [
-      "12",
-      "1034",
-      "ID",
-      "1",
-      "5",
-      "ClaimAdjustmentReasonCode"
-    ]
+    "11": ["12", "1034", "ID", "1", "5", "ClaimAdjustmentReasonCode"]
   },
   {
-    "12": [
-      "13",
-      "1035",
-      "AN",
-      "1",
-      "35",
-      "NameLastorOrganizationName"
-    ]
+    "12": ["13", "1035", "AN", "1", "35", "NameLastorOrganizationName"]
   },
   {
-    "13": [
-      "14",
-      "1036",
-      "AN",
-      "1",
-      "25",
-      "NameFirst"
-    ]
+    "13": ["14", "1036", "AN", "1", "25", "NameFirst"]
   },
   {
-    "14": [
-      "15",
-      "1037",
-      "AN",
-      "1",
-      "25",
-      "NameMiddle"
-    ]
+    "14": ["15", "1037", "AN", "1", "25", "NameMiddle"]
   },
   {
-    "15": [
-      "16",
-      "1038",
-      "AN",
-      "1",
-      "10",
-      "NamePrefix"
-    ]
+    "15": ["16", "1038", "AN", "1", "10", "NamePrefix"]
   },
   {
-    "16": [
-      "17",
-      "1039",
-      "AN",
-      "1",
-      "10",
-      "NameSuffix"
-    ]
+    "16": ["17", "1039", "AN", "1", "10", "NameSuffix"]
   },
   {
-    "17": [
-      "18",
-      "1048",
-      "ID",
-      "1",
-      "3",
-      "BusinessFunctionCode"
-    ]
+    "17": ["18", "1048", "ID", "1", "3", "BusinessFunctionCode"]
   },
   {
-    "18": [
-      "19",
-      "1065",
-      "ID",
-      "1",
-      "1",
-      "EntityTypeQualifier"
-    ]
+    "18": ["19", "1065", "ID", "1", "1", "EntityTypeQualifier"]
   },
   {
-    "19": [
-      "20",
-      "1066",
-      "ID",
-      "1",
-      "2",
-      "CitizenshipStatusCode"
-    ]
+    "19": ["20", "1066", "ID", "1", "2", "CitizenshipStatusCode"]
   },
   {
-    "20": [
-      "21",
-      "1067",
-      "ID",
-      "1",
-      "1",
-      "MaritalStatusCode"
-    ]
+    "20": ["21", "1067", "ID", "1", "1", "MaritalStatusCode"]
   },
   {
-    "21": [
-      "22",
-      "1068",
-      "ID",
-      "1",
-      "1",
-      "GenderCode"
-    ]
+    "21": ["22", "1068", "ID", "1", "1", "GenderCode"]
   },
   {
-    "22": [
-      "23",
-      "1069",
-      "ID",
-      "2",
-      "2",
-      "IndividualRelationshipCode"
-    ]
+    "22": ["23", "1069", "ID", "2", "2", "IndividualRelationshipCode"]
   },
   {
-    "23": [
-      "24",
-      "107",
-      "ID",
-      "1",
-      "2",
-      "PaymentMethodCode"
-    ]
+    "23": ["24", "107", "ID", "1", "2", "PaymentMethodCode"]
   },
   {
-    "24": [
-      "25",
-      "1073",
-      "ID",
-      "1",
-      "1",
-      "Yes/NoConditionorResponseCode"
-    ]
+    "24": ["25", "1073", "ID", "1", "1", "Yes/NoConditionorResponseCode"]
   },
   {
-    "25": [
-      "26",
-      "1074",
-      "ID",
-      "2",
-      "2",
-      "TypeofRealEstateAssetCode"
-    ]
+    "25": ["26", "1074", "ID", "2", "2", "TypeofRealEstateAssetCode"]
   },
   {
-    "26": [
-      "27",
-      "1095",
-      "N0",
-      "4",
-      "4",
-      "Year"
-    ]
+    "26": ["27", "1095", "N0", "4", "4", "Year"]
   },
   {
-    "27": [
-      "28",
-      "1109",
-      "ID",
-      "1",
-      "1",
-      "RaceorEthnicityCode"
-    ]
+    "27": ["28", "1109", "ID", "1", "1", "RaceorEthnicityCode"]
   },
   {
-    "28": [
-      "29",
-      "1129",
-      "ID",
-      "1",
-      "2",
-      "AdjustmentReasonCodeCharacteristic"
-    ]
+    "28": ["29", "1129", "ID", "1", "2", "AdjustmentReasonCodeCharacteristic"]
   },
   {
-    "29": [
-      "30",
-      "1130",
-      "ID",
-      "1",
-      "1",
-      "PrimaryorContingentCode"
-    ]
+    "29": ["30", "1130", "ID", "1", "1", "PrimaryorContingentCode"]
   },
   {
-    "30": [
-      "31",
-      "1136",
-      "ID",
-      "2",
-      "2",
-      "CodeCategory"
-    ]
+    "30": ["31", "1136", "ID", "2", "2", "CodeCategory"]
   },
   {
-    "31": [
-      "32",
-      "1137",
-      "AN",
-      "1",
-      "15",
-      "MedicalCodeValue"
-    ]
+    "31": ["32", "1137", "AN", "1", "15", "MedicalCodeValue"]
   },
   {
     "32": [
@@ -330,284 +113,88 @@
     ]
   },
   {
-    "33": [
-      "34",
-      "1143",
-      "ID",
-      "1",
-      "1",
-      "CoordinationofBenefitsCode"
-    ]
+    "33": ["34", "1143", "ID", "1", "1", "CoordinationofBenefitsCode"]
   },
   {
-    "34": [
-      "35",
-      "1146",
-      "ID",
-      "1",
-      "1",
-      "DisabilityTypeCode"
-    ]
+    "34": ["35", "1146", "ID", "1", "1", "DisabilityTypeCode"]
   },
   {
-    "35": [
-      "36",
-      "1149",
-      "ID",
-      "4",
-      "6",
-      "OccupationCode"
-    ]
+    "35": ["36", "1149", "ID", "4", "6", "OccupationCode"]
   },
   {
-    "36": [
-      "37",
-      "1154",
-      "ID",
-      "1",
-      "1",
-      "WorkIntensityCode"
-    ]
+    "36": ["37", "1154", "ID", "1", "1", "WorkIntensityCode"]
   },
   {
-    "37": [
-      "38",
-      "116",
-      "ID",
-      "3",
-      "15",
-      "PostalCode"
-    ]
+    "37": ["38", "116", "ID", "3", "15", "PostalCode"]
   },
   {
-    "38": [
-      "39",
-      "1161",
-      "ID",
-      "1",
-      "2",
-      "ProductOptionCode"
-    ]
+    "38": ["39", "1161", "ID", "1", "2", "ProductOptionCode"]
   },
   {
-    "39": [
-      "40",
-      "1165",
-      "ID",
-      "1",
-      "1",
-      "ConfidentialityCode"
-    ]
+    "39": ["40", "1165", "ID", "1", "1", "ConfidentialityCode"]
   },
   {
-    "40": [
-      "41",
-      "1166",
-      "ID",
-      "2",
-      "2",
-      "ContractTypeCode"
-    ]
+    "40": ["41", "1166", "ID", "2", "2", "ContractTypeCode"]
   },
   {
-    "41": [
-      "42",
-      "1167",
-      "R",
-      "1",
-      "6",
-      "SampleSelectionModulus"
-    ]
+    "41": ["42", "1167", "R", "1", "6", "SampleSelectionModulus"]
   },
   {
-    "42": [
-      "43",
-      "1176",
-      "ID",
-      "2",
-      "3",
-      "EmploymentClassCode"
-    ]
+    "42": ["43", "1176", "ID", "2", "3", "EmploymentClassCode"]
   },
   {
-    "43": [
-      "44",
-      "118",
-      "R",
-      "1",
-      "9",
-      "Rate"
-    ]
+    "43": ["44", "118", "R", "1", "9", "Rate"]
   },
   {
-    "44": [
-      "45",
-      "1186",
-      "ID",
-      "2",
-      "2",
-      "TypeofIncomeCode"
-    ]
+    "44": ["45", "1186", "ID", "2", "2", "TypeofIncomeCode"]
   },
   {
-    "45": [
-      "46",
-      "1187",
-      "ID",
-      "2",
-      "2",
-      "TypeofAccountCode"
-    ]
+    "45": ["46", "1187", "ID", "2", "2", "TypeofAccountCode"]
   },
   {
-    "46": [
-      "47",
-      "1188",
-      "ID",
-      "2",
-      "2",
-      "TypeofPersonalorBusinessAssetCode"
-    ]
+    "46": ["47", "1188", "ID", "2", "2", "TypeofPersonalorBusinessAssetCode"]
   },
   {
-    "47": [
-      "48",
-      "1201",
-      "ID",
-      "1",
-      "1",
-      "InformationStatusCode"
-    ]
+    "47": ["48", "1201", "ID", "1", "1", "InformationStatusCode"]
   },
   {
-    "48": [
-      "49",
-      "1202",
-      "ID",
-      "1",
-      "1",
-      "FlexibleSpendingAccountSelectionCode"
-    ]
+    "48": ["49", "1202", "ID", "1", "1", "FlexibleSpendingAccountSelectionCode"]
   },
   {
-    "49": [
-      "50",
-      "1203",
-      "ID",
-      "2",
-      "3",
-      "MaintenanceReasonCode"
-    ]
+    "49": ["50", "1203", "ID", "2", "3", "MaintenanceReasonCode"]
   },
   {
-    "50": [
-      "51",
-      "1204",
-      "AN",
-      "1",
-      "50",
-      "PlanCoverageDescription"
-    ]
+    "50": ["51", "1204", "AN", "1", "50", "PlanCoverageDescription"]
   },
   {
-    "51": [
-      "52",
-      "1205",
-      "ID",
-      "2",
-      "3",
-      "InsuranceLineCode"
-    ]
+    "51": ["52", "1205", "ID", "2", "3", "InsuranceLineCode"]
   },
   {
-    "52": [
-      "53",
-      "1207",
-      "ID",
-      "3",
-      "3",
-      "CoverageLevelCode"
-    ]
+    "52": ["53", "1207", "ID", "3", "3", "CoverageLevelCode"]
   },
   {
-    "53": [
-      "54",
-      "1209",
-      "ID",
-      "1",
-      "1",
-      "UnderwritingDecisionCode"
-    ]
+    "53": ["54", "1209", "ID", "1", "1", "UnderwritingDecisionCode"]
   },
   {
-    "54": [
-      "55",
-      "1211",
-      "ID",
-      "2",
-      "3",
-      "DrugHouseCode"
-    ]
+    "54": ["55", "1211", "ID", "2", "3", "DrugHouseCode"]
   },
   {
-    "55": [
-      "56",
-      "1212",
-      "ID",
-      "1",
-      "1",
-      "Health-RelatedCode"
-    ]
+    "55": ["56", "1212", "ID", "1", "1", "Health-RelatedCode"]
   },
   {
-    "56": [
-      "57",
-      "1213",
-      "ID",
-      "1",
-      "1",
-      "CurrentHealthConditionCode"
-    ]
+    "56": ["57", "1213", "ID", "1", "1", "CurrentHealthConditionCode"]
   },
   {
-    "57": [
-      "58",
-      "1214",
-      "AN",
-      "1",
-      "5",
-      "SalaryGrade"
-    ]
+    "57": ["58", "1214", "AN", "1", "5", "SalaryGrade"]
   },
   {
-    "58": [
-      "59",
-      "1215",
-      "ID",
-      "1",
-      "1",
-      "IdentificationCardTypeCode"
-    ]
+    "58": ["59", "1215", "ID", "1", "1", "IdentificationCardTypeCode"]
   },
   {
-    "59": [
-      "60",
-      "1216",
-      "ID",
-      "1",
-      "1",
-      "BenefitStatusCode"
-    ]
+    "59": ["60", "1216", "ID", "1", "1", "BenefitStatusCode"]
   },
   {
-    "60": [
-      "61",
-      "1218",
-      "ID",
-      "1",
-      "1",
-      "MedicarePlanCode"
-    ]
+    "60": ["61", "1218", "ID", "1", "1", "MedicarePlanCode"]
   },
   {
     "61": [
@@ -620,354 +207,109 @@
     ]
   },
   {
-    "62": [
-      "63",
-      "1220",
-      "ID",
-      "1",
-      "1",
-      "StudentStatusCode"
-    ]
+    "62": ["63", "1220", "ID", "1", "1", "StudentStatusCode"]
   },
   {
-    "63": [
-      "64",
-      "1221",
-      "ID",
-      "1",
-      "3",
-      "ProviderCode"
-    ]
+    "63": ["64", "1221", "ID", "1", "3", "ProviderCode"]
   },
   {
-    "64": [
-      "65",
-      "1222",
-      "AN",
-      "1",
-      "3",
-      "ProviderSpecialtyCode"
-    ]
+    "64": ["65", "1222", "AN", "1", "3", "ProviderSpecialtyCode"]
   },
   {
-    "65": [
-      "66",
-      "1223",
-      "ID",
-      "3",
-      "3",
-      "ProviderOrganizationCode"
-    ]
+    "65": ["66", "1223", "ID", "3", "3", "ProviderOrganizationCode"]
   },
   {
-    "66": [
-      "67",
-      "1224",
-      "ID",
-      "2",
-      "2",
-      "ContributionCode"
-    ]
+    "66": ["67", "1224", "ID", "2", "2", "ContributionCode"]
   },
   {
-    "67": [
-      "68",
-      "123",
-      "N0",
-      "1",
-      "6",
-      "NumberofReceivedTransactionSets"
-    ]
+    "67": ["68", "123", "N0", "1", "6", "NumberofReceivedTransactionSets"]
   },
   {
-    "68": [
-      "69",
-      "124",
-      "AN",
-      "2",
-      "15",
-      "124"
-    ]
+    "68": ["69", "124", "AN", "2", "15", "124"]
   },
   {
-    "69": [
-      "70",
-      "1250",
-      "ID",
-      "2",
-      "3",
-      "DateTimePeriodFormatQualifier"
-    ]
+    "69": ["70", "1250", "ID", "2", "3", "DateTimePeriodFormatQualifier"]
   },
   {
-    "70": [
-      "71",
-      "1251",
-      "AN",
-      "1",
-      "35",
-      "DateTimePeriod"
-    ]
+    "70": ["71", "1251", "AN", "1", "35", "DateTimePeriod"]
   },
   {
-    "71": [
-      "72",
-      "1253",
-      "ID",
-      "3",
-      "6",
-      "ImmunizationTypeCode"
-    ]
+    "71": ["72", "1253", "ID", "3", "6", "ImmunizationTypeCode"]
   },
   {
-    "72": [
-      "73",
-      "1254",
-      "ID",
-      "1",
-      "2",
-      "ImmunizationStatusCode"
-    ]
+    "72": ["73", "1254", "ID", "1", "2", "ImmunizationStatusCode"]
   },
   {
-    "73": [
-      "74",
-      "127",
-      "AN",
-      "1",
-      "30",
-      "ReferenceIdentification"
-    ]
+    "73": ["74", "127", "AN", "1", "30", "ReferenceIdentification"]
   },
   {
-    "74": [
-      "75",
-      "1270",
-      "ID",
-      "1",
-      "3",
-      "CodeListQualifierCode"
-    ]
+    "74": ["75", "1270", "ID", "1", "3", "CodeListQualifierCode"]
   },
   {
-    "75": [
-      "76",
-      "1271",
-      "AN",
-      "1",
-      "30",
-      "IndustryCode"
-    ]
+    "75": ["76", "1271", "AN", "1", "30", "IndustryCode"]
   },
   {
-    "76": [
-      "77",
-      "128",
-      "ID",
-      "2",
-      "3",
-      "ReferenceIdentificationQualifier"
-    ]
+    "76": ["77", "128", "ID", "2", "3", "ReferenceIdentificationQualifier"]
   },
   {
-    "77": [
-      "78",
-      "1295",
-      "ID",
-      "1",
-      "2",
-      "ParticipantStatusCode"
-    ]
+    "77": ["78", "1295", "ID", "1", "2", "ParticipantStatusCode"]
   },
   {
-    "78": [
-      "79",
-      "1296",
-      "AN",
-      "1",
-      "6",
-      "SpecialProcessingType"
-    ]
+    "78": ["79", "1296", "AN", "1", "6", "SpecialProcessingType"]
   },
   {
-    "79": [
-      "80",
-      "1303",
-      "ID",
-      "1",
-      "2",
-      "UseofLanguageIndicator"
-    ]
+    "79": ["80", "1303", "ID", "1", "2", "UseofLanguageIndicator"]
   },
   {
-    "80": [
-      "81",
-      "1314",
-      "ID",
-      "1",
-      "1",
-      "AdmissionSourceCode"
-    ]
+    "80": ["81", "1314", "ID", "1", "1", "AdmissionSourceCode"]
   },
   {
-    "81": [
-      "82",
-      "1315",
-      "ID",
-      "1",
-      "1",
-      "AdmissionTypeCode"
-    ]
+    "81": ["82", "1315", "ID", "1", "1", "AdmissionTypeCode"]
   },
   {
-    "82": [
-      "83",
-      "1316",
-      "ID",
-      "1",
-      "1",
-      "AmbulanceTransportCode"
-    ]
+    "82": ["83", "1316", "ID", "1", "1", "AmbulanceTransportCode"]
   },
   {
-    "83": [
-      "84",
-      "1317",
-      "ID",
-      "1",
-      "1",
-      "AmbulanceTransportReasonCode"
-    ]
+    "83": ["84", "1317", "ID", "1", "1", "AmbulanceTransportReasonCode"]
   },
   {
-    "84": [
-      "85",
-      "1318",
-      "ID",
-      "1",
-      "1",
-      "ApprovalCode"
-    ]
+    "84": ["85", "1318", "ID", "1", "1", "ApprovalCode"]
   },
   {
-    "85": [
-      "86",
-      "1319",
-      "ID",
-      "1",
-      "2",
-      "BasisofCostDeterminationCode"
-    ]
+    "85": ["86", "1319", "ID", "1", "2", "BasisofCostDeterminationCode"]
   },
   {
-    "86": [
-      "87",
-      "1320",
-      "ID",
-      "1",
-      "1",
-      "BasisofDaysSupplyDeterminationCode"
-    ]
+    "86": ["87", "1320", "ID", "1", "1", "BasisofDaysSupplyDeterminationCode"]
   },
   {
-    "87": [
-      "88",
-      "1321",
-      "ID",
-      "2",
-      "2",
-      "ConditionIndicator"
-    ]
+    "87": ["88", "1321", "ID", "2", "2", "ConditionIndicator"]
   },
   {
-    "88": [
-      "89",
-      "1322",
-      "ID",
-      "1",
-      "1",
-      "CertificationTypeCode"
-    ]
+    "88": ["89", "1322", "ID", "1", "1", "CertificationTypeCode"]
   },
   {
-    "89": [
-      "90",
-      "1325",
-      "ID",
-      "1",
-      "1",
-      "ClaimFrequencyTypeCode"
-    ]
+    "89": ["90", "1325", "ID", "1", "1", "ClaimFrequencyTypeCode"]
   },
   {
-    "90": [
-      "91",
-      "1327",
-      "ID",
-      "1",
-      "1",
-      "CopayStatusCode"
-    ]
+    "90": ["91", "1327", "ID", "1", "1", "CopayStatusCode"]
   },
   {
-    "91": [
-      "92",
-      "1328",
-      "N0",
-      "1",
-      "2",
-      "DiagnosisCodePointer"
-    ]
+    "91": ["92", "1328", "N0", "1", "2", "DiagnosisCodePointer"]
   },
   {
-    "92": [
-      "93",
-      "1329",
-      "ID",
-      "1",
-      "1",
-      "DispenseasWrittenCode"
-    ]
+    "92": ["93", "1329", "ID", "1", "1", "DispenseasWrittenCode"]
   },
   {
-    "93": [
-      "94",
-      "1330",
-      "ID",
-      "2",
-      "2",
-      "DosageFormCode"
-    ]
+    "93": ["94", "1330", "ID", "2", "2", "DosageFormCode"]
   },
   {
-    "94": [
-      "95",
-      "1331",
-      "AN",
-      "1",
-      "2",
-      "FacilityCodeValue"
-    ]
+    "94": ["95", "1331", "AN", "1", "2", "FacilityCodeValue"]
   },
   {
-    "95": [
-      "96",
-      "1332",
-      "ID",
-      "1",
-      "2",
-      "FacilityCodeQualifier"
-    ]
+    "95": ["96", "1332", "ID", "1", "2", "FacilityCodeQualifier"]
   },
   {
-    "96": [
-      "97",
-      "1333",
-      "ID",
-      "1",
-      "2",
-      "RecordFormatCode"
-    ]
+    "96": ["97", "1333", "ID", "1", "2", "RecordFormatCode"]
   },
   {
     "97": [
@@ -980,124 +322,40 @@
     ]
   },
   {
-    "98": [
-      "99",
-      "1335",
-      "ID",
-      "1",
-      "1",
-      "InsulinDependentCode"
-    ]
+    "98": ["99", "1335", "ID", "1", "1", "InsulinDependentCode"]
   },
   {
-    "99": [
-      "100",
-      "1336",
-      "ID",
-      "1",
-      "3",
-      "InsuranceTypeCode"
-    ]
+    "99": ["100", "1336", "ID", "1", "3", "InsuranceTypeCode"]
   },
   {
-    "100": [
-      "101",
-      "1337",
-      "ID",
-      "1",
-      "1",
-      "LevelofCareCode"
-    ]
+    "100": ["101", "1337", "ID", "1", "1", "LevelofCareCode"]
   },
   {
-    "101": [
-      "102",
-      "1338",
-      "ID",
-      "1",
-      "3",
-      "LevelofServiceCode"
-    ]
+    "101": ["102", "1338", "ID", "1", "3", "LevelofServiceCode"]
   },
   {
-    "102": [
-      "103",
-      "1339",
-      "AN",
-      "2",
-      "2",
-      "ProcedureModifier"
-    ]
+    "102": ["103", "1339", "AN", "2", "2", "ProcedureModifier"]
   },
   {
-    "103": [
-      "104",
-      "1340",
-      "ID",
-      "1",
-      "2",
-      "MultipleProcedureCode"
-    ]
+    "103": ["104", "1340", "ID", "1", "2", "MultipleProcedureCode"]
   },
   {
-    "104": [
-      "105",
-      "1341",
-      "AN",
-      "1",
-      "2",
-      "NationalorLocalAssignedReviewValue"
-    ]
+    "104": ["105", "1341", "AN", "1", "2", "NationalorLocalAssignedReviewValue"]
   },
   {
-    "105": [
-      "106",
-      "1342",
-      "ID",
-      "1",
-      "1",
-      "NatureofConditionCode"
-    ]
+    "105": ["106", "1342", "ID", "1", "1", "NatureofConditionCode"]
   },
   {
-    "106": [
-      "107",
-      "1343",
-      "ID",
-      "1",
-      "2",
-      "Non-InstitutionalClaimTypeCode"
-    ]
+    "106": ["107", "1343", "ID", "1", "2", "Non-InstitutionalClaimTypeCode"]
   },
   {
-    "107": [
-      "108",
-      "1344",
-      "ID",
-      "1",
-      "1",
-      "Non-VisitCode"
-    ]
+    "107": ["108", "1344", "ID", "1", "1", "Non-VisitCode"]
   },
   {
-    "108": [
-      "109",
-      "1345",
-      "ID",
-      "1",
-      "1",
-      "NursingHomeResidentialStatusCode"
-    ]
+    "108": ["109", "1345", "ID", "1", "1", "NursingHomeResidentialStatusCode"]
   },
   {
-    "109": [
-      "110",
-      "1346",
-      "ID",
-      "1",
-      "1",
-      "NutrientAdministrationMethodCode"
-    ]
+    "109": ["110", "1346", "ID", "1", "1", "NutrientAdministrationMethodCode"]
   },
   {
     "110": [
@@ -1110,414 +368,127 @@
     ]
   },
   {
-    "111": [
-      "112",
-      "1348",
-      "ID",
-      "1",
-      "1",
-      "OxygenEquipmentTypeCode"
-    ]
+    "111": ["112", "1348", "ID", "1", "1", "OxygenEquipmentTypeCode"]
   },
   {
-    "112": [
-      "113",
-      "1349",
-      "ID",
-      "1",
-      "1",
-      "OxygenTestConditionCode"
-    ]
+    "112": ["113", "1349", "ID", "1", "1", "OxygenTestConditionCode"]
   },
   {
-    "113": [
-      "114",
-      "1350",
-      "ID",
-      "1",
-      "1",
-      "OxygenTestFindingsCode"
-    ]
+    "113": ["114", "1350", "ID", "1", "1", "OxygenTestFindingsCode"]
   },
   {
-    "114": [
-      "115",
-      "1351",
-      "ID",
-      "1",
-      "1",
-      "PatientSignatureSourceCode"
-    ]
+    "114": ["115", "1351", "ID", "1", "1", "PatientSignatureSourceCode"]
   },
   {
-    "115": [
-      "116",
-      "1352",
-      "ID",
-      "1",
-      "2",
-      "PatientStatusCode"
-    ]
+    "115": ["116", "1352", "ID", "1", "2", "PatientStatusCode"]
   },
   {
-    "116": [
-      "117",
-      "1354",
-      "ID",
-      "1",
-      "4",
-      "DiagnosisRelatedGroup(DRG)Code"
-    ]
+    "116": ["117", "1354", "ID", "1", "4", "DiagnosisRelatedGroup(DRG)Code"]
   },
   {
-    "117": [
-      "118",
-      "1355",
-      "ID",
-      "2",
-      "2",
-      "PrescriptionDenialOverrideCode"
-    ]
+    "117": ["118", "1355", "ID", "2", "2", "PrescriptionDenialOverrideCode"]
   },
   {
-    "118": [
-      "119",
-      "1356",
-      "ID",
-      "1",
-      "1",
-      "PrescriptionOriginCode"
-    ]
+    "118": ["119", "1356", "ID", "1", "1", "PrescriptionOriginCode"]
   },
   {
-    "119": [
-      "120",
-      "1357",
-      "ID",
-      "1",
-      "1",
-      "PriorAuthorizationTypeCode"
-    ]
+    "119": ["120", "1357", "ID", "1", "1", "PriorAuthorizationTypeCode"]
   },
   {
-    "120": [
-      "121",
-      "1358",
-      "ID",
-      "1",
-      "1",
-      "Prosthesis"
-    ]
+    "120": ["121", "1358", "ID", "1", "1", "Prosthesis"]
   },
   {
-    "121": [
-      "122",
-      "1359",
-      "ID",
-      "1",
-      "1",
-      "ProviderAcceptAssignmentCode"
-    ]
+    "121": ["122", "1359", "ID", "1", "1", "ProviderAcceptAssignmentCode"]
   },
   {
-    "122": [
-      "123",
-      "1360",
-      "ID",
-      "1",
-      "1",
-      "ProviderAgreementCode"
-    ]
+    "122": ["123", "1360", "ID", "1", "1", "ProviderAgreementCode"]
   },
   {
-    "123": [
-      "124",
-      "1361",
-      "ID",
-      "1",
-      "3",
-      "OralCavityDesignationCode"
-    ]
+    "123": ["124", "1361", "ID", "1", "3", "OralCavityDesignationCode"]
   },
   {
-    "124": [
-      "125",
-      "1362",
-      "ID",
-      "2",
-      "3",
-      "Related-CausesCode"
-    ]
+    "124": ["125", "1362", "ID", "2", "3", "Related-CausesCode"]
   },
   {
-    "125": [
-      "126",
-      "1363",
-      "ID",
-      "1",
-      "1",
-      "ReleaseofInformationCode"
-    ]
+    "125": ["126", "1363", "ID", "1", "1", "ReleaseofInformationCode"]
   },
   {
-    "126": [
-      "127",
-      "1364",
-      "ID",
-      "1",
-      "2",
-      "ReviewCode"
-    ]
+    "126": ["127", "1364", "ID", "1", "2", "ReviewCode"]
   },
   {
-    "127": [
-      "128",
-      "1365",
-      "ID",
-      "1",
-      "2",
-      "ServiceTypeCode"
-    ]
+    "127": ["128", "1365", "ID", "1", "2", "ServiceTypeCode"]
   },
   {
-    "128": [
-      "129",
-      "1366",
-      "ID",
-      "2",
-      "3",
-      "SpecialProgramCode"
-    ]
+    "128": ["129", "1366", "ID", "2", "3", "SpecialProgramCode"]
   },
   {
-    "129": [
-      "130",
-      "1367",
-      "ID",
-      "2",
-      "3",
-      "SubluxationLevelCode"
-    ]
+    "129": ["130", "1367", "ID", "2", "3", "SubluxationLevelCode"]
   },
   {
-    "130": [
-      "131",
-      "1368",
-      "ID",
-      "1",
-      "2",
-      "ToothStatusCode"
-    ]
+    "130": ["131", "1368", "ID", "1", "2", "ToothStatusCode"]
   },
   {
-    "131": [
-      "132",
-      "1369",
-      "ID",
-      "1",
-      "2",
-      "ToothSurfaceCode"
-    ]
+    "131": ["132", "1369", "ID", "1", "2", "ToothSurfaceCode"]
   },
   {
-    "132": [
-      "133",
-      "1370",
-      "ID",
-      "1",
-      "1",
-      "UnitDoseCode"
-    ]
+    "132": ["133", "1370", "ID", "1", "1", "UnitDoseCode"]
   },
   {
-    "133": [
-      "134",
-      "1371",
-      "R",
-      "1",
-      "10",
-      "UnitRate"
-    ]
+    "133": ["134", "1371", "R", "1", "10", "UnitRate"]
   },
   {
-    "134": [
-      "135",
-      "1373",
-      "ID",
-      "2",
-      "4",
-      "MeasurementMethodorDevice"
-    ]
+    "134": ["135", "1373", "ID", "2", "4", "MeasurementMethodorDevice"]
   },
   {
-    "135": [
-      "136",
-      "1382",
-      "ID",
-      "1",
-      "1",
-      "OxygenDeliverySystemCode"
-    ]
+    "135": ["136", "1382", "ID", "1", "1", "OxygenDeliverySystemCode"]
   },
   {
-    "136": [
-      "137",
-      "1383",
-      "ID",
-      "2",
-      "2",
-      "ClaimSubmissionReasonCode"
-    ]
+    "136": ["137", "1383", "ID", "2", "2", "ClaimSubmissionReasonCode"]
   },
   {
-    "137": [
-      "138",
-      "1384",
-      "ID",
-      "1",
-      "1",
-      "PatientLocationCode"
-    ]
+    "137": ["138", "1384", "ID", "1", "1", "PatientLocationCode"]
   },
   {
-    "138": [
-      "139",
-      "1390",
-      "ID",
-      "1",
-      "2",
-      "EligibilityorBenefitInformation"
-    ]
+    "138": ["139", "1390", "ID", "1", "2", "EligibilityorBenefitInformation"]
   },
   {
-    "139": [
-      "140",
-      "1403",
-      "ID",
-      "1",
-      "1",
-      "ImplantTypeCode"
-    ]
+    "139": ["140", "1403", "ID", "1", "1", "ImplantTypeCode"]
   },
   {
-    "140": [
-      "141",
-      "1404",
-      "ID",
-      "1",
-      "1",
-      "ImplantStatusCode"
-    ]
+    "140": ["141", "1404", "ID", "1", "1", "ImplantStatusCode"]
   },
   {
-    "141": [
-      "142",
-      "142",
-      "AN",
-      "2",
-      "15",
-      "ApplicationSendersCode"
-    ]
+    "141": ["142", "142", "AN", "2", "15", "ApplicationSendersCode"]
   },
   {
-    "142": [
-      "143",
-      "1429",
-      "ID",
-      "1",
-      "2",
-      "ConstructionType"
-    ]
+    "142": ["143", "1429", "ID", "1", "2", "ConstructionType"]
   },
   {
-    "143": [
-      "144",
-      "143",
-      "ID",
-      "3",
-      "3",
-      "TransactionSetIdentifierCode"
-    ]
+    "143": ["144", "143", "ID", "3", "3", "TransactionSetIdentifierCode"]
   },
   {
-    "144": [
-      "145",
-      "1470",
-      "N0",
-      "1",
-      "9",
-      "Number"
-    ]
+    "144": ["145", "1470", "N0", "1", "9", "Number"]
   },
   {
-    "145": [
-      "146",
-      "1473",
-      "ID",
-      "2",
-      "2",
-      "PricingMethodology"
-    ]
+    "145": ["146", "1473", "ID", "2", "2", "PricingMethodology"]
   },
   {
-    "146": [
-      "147",
-      "1476",
-      "ID",
-      "1",
-      "1",
-      "LanguageProficiencyIndicator"
-    ]
+    "146": ["147", "1476", "ID", "1", "1", "LanguageProficiencyIndicator"]
   },
   {
-    "147": [
-      "148",
-      "151",
-      "AN",
-      "1",
-      "20",
-      "Authority"
-    ]
+    "147": ["148", "151", "AN", "1", "20", "Authority"]
   },
   {
-    "148": [
-      "149",
-      "1514",
-      "ID",
-      "1",
-      "2",
-      "DelayReasonCode"
-    ]
+    "148": ["149", "1514", "ID", "1", "2", "DelayReasonCode"]
   },
   {
-    "149": [
-      "150",
-      "1525",
-      "ID",
-      "1",
-      "2",
-      "RequestCategoryCode"
-    ]
+    "149": ["150", "1525", "ID", "1", "2", "RequestCategoryCode"]
   },
   {
-    "150": [
-      "151",
-      "1526",
-      "ID",
-      "1",
-      "2",
-      "PolicyComplianceCode"
-    ]
+    "150": ["151", "1526", "ID", "1", "2", "PolicyComplianceCode"]
   },
   {
-    "151": [
-      "152",
-      "1527",
-      "ID",
-      "1",
-      "2",
-      "ExceptionCode"
-    ]
+    "151": ["152", "1527", "ID", "1", "2", "ExceptionCode"]
   },
   {
     "152": [
@@ -1530,544 +501,166 @@
     ]
   },
   {
-    "153": [
-      "154",
-      "156",
-      "ID",
-      "2",
-      "2",
-      "StateorProvinceCode"
-    ]
+    "153": ["154", "156", "ID", "2", "2", "StateorProvinceCode"]
   },
   {
-    "154": [
-      "155",
-      "166",
-      "AN",
-      "1",
-      "55",
-      "AddressInformation"
-    ]
+    "154": ["155", "166", "AN", "1", "55", "AddressInformation"]
   },
   {
-    "155": [
-      "156",
-      "1685",
-      "ID",
-      "1",
-      "2",
-      "TaxTreatmentCode"
-    ]
+    "155": ["156", "1685", "ID", "1", "2", "TaxTreatmentCode"]
   },
   {
-    "156": [
-      "157",
-      "1687",
-      "R",
-      "1",
-      "15",
-      "EarningsRateofPay"
-    ]
+    "156": ["157", "1687", "R", "1", "15", "EarningsRateofPay"]
   },
   {
-    "157": [
-      "158",
-      "1705",
-      "AN",
-      "1",
-      "35",
-      "ImplementationConventionReference"
-    ]
+    "157": ["158", "1705", "AN", "1", "35", "ImplementationConventionReference"]
   },
   {
-    "158": [
-      "159",
-      "183",
-      "R",
-      "1",
-      "8",
-      "Volume"
-    ]
+    "158": ["159", "183", "R", "1", "8", "Volume"]
   },
   {
-    "159": [
-      "160",
-      "184",
-      "ID",
-      "1",
-      "1",
-      "VolumeUnitQualifier"
-    ]
+    "159": ["160", "184", "ID", "1", "1", "VolumeUnitQualifier"]
   },
   {
-    "160": [
-      "161",
-      "188",
-      "ID",
-      "1",
-      "1",
-      "WeightUnitCode"
-    ]
+    "160": ["161", "188", "ID", "1", "1", "WeightUnitCode"]
   },
   {
-    "161": [
-      "162",
-      "19",
-      "AN",
-      "2",
-      "30",
-      "CityName"
-    ]
+    "161": ["162", "19", "AN", "2", "30", "CityName"]
   },
   {
-    "162": [
-      "163",
-      "2",
-      "N0",
-      "1",
-      "6",
-      "NumberofAcceptedTransactionSets"
-    ]
+    "162": ["163", "2", "N0", "1", "6", "NumberofAcceptedTransactionSets"]
   },
   {
-    "163": [
-      "164",
-      "212",
-      "R",
-      "1",
-      "17",
-      "UnitPrice"
-    ]
+    "163": ["164", "212", "R", "1", "17", "UnitPrice"]
   },
   {
-    "164": [
-      "165",
-      "22",
-      "AN",
-      "1",
-      "30",
-      "CommodityCode"
-    ]
+    "164": ["165", "22", "AN", "1", "30", "CommodityCode"]
   },
   {
-    "165": [
-      "166",
-      "23",
-      "ID",
-      "1",
-      "1",
-      "CommodityCodeQualifier"
-    ]
+    "165": ["166", "23", "ID", "1", "1", "CommodityCodeQualifier"]
   },
   {
-    "166": [
-      "167",
-      "234",
-      "AN",
-      "1",
-      "48",
-      "Product/ServiceID"
-    ]
+    "166": ["167", "234", "AN", "1", "48", "Product/ServiceID"]
   },
   {
-    "167": [
-      "168",
-      "235",
-      "ID",
-      "2",
-      "2",
-      "Product/ServiceIDQualifier"
-    ]
+    "167": ["168", "235", "ID", "2", "2", "Product/ServiceIDQualifier"]
   },
   {
-    "168": [
-      "169",
-      "236",
-      "ID",
-      "3",
-      "3",
-      "PriceIdentifierCode"
-    ]
+    "168": ["169", "236", "ID", "3", "3", "PriceIdentifierCode"]
   },
   {
-    "169": [
-      "170",
-      "26",
-      "ID",
-      "2",
-      "3",
-      "CountryCode"
-    ]
+    "169": ["170", "26", "ID", "2", "3", "CountryCode"]
   },
   {
-    "170": [
-      "171",
-      "28",
-      "N0",
-      "1",
-      "9",
-      "GroupControlNumber"
-    ]
+    "170": ["171", "28", "N0", "1", "9", "GroupControlNumber"]
   },
   {
-    "171": [
-      "172",
-      "29",
-      "DT",
-      "6",
-      "8",
-      "Date"
-    ]
+    "171": ["172", "29", "DT", "6", "8", "Date"]
   },
   {
-    "172": [
-      "173",
-      "30",
-      "TM",
-      "4",
-      "4",
-      "Time"
-    ]
+    "172": ["173", "30", "TM", "4", "4", "Time"]
   },
   {
-    "173": [
-      "174",
-      "280",
-      "R",
-      "4",
-      "10",
-      "ExchangeRate"
-    ]
+    "173": ["174", "280", "R", "4", "10", "ExchangeRate"]
   },
   {
-    "174": [
-      "175",
-      "289",
-      "N0",
-      "1",
-      "2",
-      "MultiplePriceQuantity"
-    ]
+    "174": ["175", "289", "N0", "1", "2", "MultiplePriceQuantity"]
   },
   {
-    "175": [
-      "176",
-      "305",
-      "ID",
-      "1",
-      "2",
-      "TransactionHandlingCode"
-    ]
+    "175": ["176", "305", "ID", "1", "2", "TransactionHandlingCode"]
   },
   {
-    "176": [
-      "177",
-      "306",
-      "ID",
-      "1",
-      "2",
-      "ActionCode"
-    ]
+    "176": ["177", "306", "ID", "1", "2", "ActionCode"]
   },
   {
-    "177": [
-      "178",
-      "309",
-      "ID",
-      "1",
-      "2",
-      "LocationQualifier"
-    ]
+    "177": ["178", "309", "ID", "1", "2", "LocationQualifier"]
   },
   {
-    "178": [
-      "179",
-      "310",
-      "AN",
-      "1",
-      "30",
-      "LocationIdentifier"
-    ]
+    "178": ["179", "310", "AN", "1", "30", "LocationIdentifier"]
   },
   {
-    "179": [
-      "180",
-      "324",
-      "AN",
-      "1",
-      "22",
-      "PurchaseOrderNumber"
-    ]
+    "179": ["180", "324", "AN", "1", "22", "PurchaseOrderNumber"]
   },
   {
-    "180": [
-      "181",
-      "328",
-      "AN",
-      "1",
-      "30",
-      "ReleaseNumber"
-    ]
+    "180": ["181", "328", "AN", "1", "30", "ReleaseNumber"]
   },
   {
-    "181": [
-      "182",
-      "329",
-      "AN",
-      "4",
-      "9",
-      "TransactionSetControlNumber"
-    ]
+    "181": ["182", "329", "AN", "4", "9", "TransactionSetControlNumber"]
   },
   {
-    "182": [
-      "183",
-      "332",
-      "R",
-      "1",
-      "6",
-      "Percent"
-    ]
+    "182": ["183", "332", "R", "1", "6", "Percent"]
   },
   {
-    "183": [
-      "184",
-      "337",
-      "TM",
-      "4",
-      "8",
-      "Time"
-    ]
+    "183": ["184", "337", "TM", "4", "8", "Time"]
   },
   {
-    "184": [
-      "185",
-      "338",
-      "R",
-      "1",
-      "6",
-      "TermsDiscountPercent"
-    ]
+    "184": ["185", "338", "R", "1", "6", "TermsDiscountPercent"]
   },
   {
-    "185": [
-      "186",
-      "349",
-      "ID",
-      "1",
-      "1",
-      "ItemDescriptionType"
-    ]
+    "185": ["186", "349", "ID", "1", "1", "ItemDescriptionType"]
   },
   {
-    "186": [
-      "187",
-      "350",
-      "AN",
-      "1",
-      "20",
-      "AssignedIdentification"
-    ]
+    "186": ["187", "350", "AN", "1", "20", "AssignedIdentification"]
   },
   {
-    "187": [
-      "188",
-      "352",
-      "AN",
-      "1",
-      "80",
-      "Description"
-    ]
+    "187": ["188", "352", "AN", "1", "80", "Description"]
   },
   {
-    "188": [
-      "189",
-      "353",
-      "ID",
-      "2",
-      "2",
-      "TransactionSetPurposeCode"
-    ]
+    "188": ["189", "353", "ID", "2", "2", "TransactionSetPurposeCode"]
   },
   {
-    "189": [
-      "190",
-      "354",
-      "N0",
-      "1",
-      "6",
-      "NumberofLineItems"
-    ]
+    "189": ["190", "354", "N0", "1", "6", "NumberofLineItems"]
   },
   {
-    "190": [
-      "191",
-      "355",
-      "ID",
-      "2",
-      "2",
-      "UnitorBasisforMeasurementCode"
-    ]
+    "190": ["191", "355", "ID", "2", "2", "UnitorBasisforMeasurementCode"]
   },
   {
-    "191": [
-      "192",
-      "358",
-      "R",
-      "1",
-      "10",
-      "QuantityInvoiced"
-    ]
+    "191": ["192", "358", "R", "1", "10", "QuantityInvoiced"]
   },
   {
-    "192": [
-      "193",
-      "363",
-      "ID",
-      "3",
-      "3",
-      "NoteReferenceCode"
-    ]
+    "192": ["193", "363", "ID", "3", "3", "NoteReferenceCode"]
   },
   {
-    "193": [
-      "194",
-      "364",
-      "AN",
-      "1",
-      "80",
-      "CommunicationNumber"
-    ]
+    "193": ["194", "364", "AN", "1", "80", "CommunicationNumber"]
   },
   {
-    "194": [
-      "195",
-      "365",
-      "ID",
-      "2",
-      "2",
-      "CommunicationNumberQualifier"
-    ]
+    "194": ["195", "365", "ID", "2", "2", "CommunicationNumberQualifier"]
   },
   {
-    "195": [
-      "196",
-      "366",
-      "ID",
-      "2",
-      "2",
-      "ContactFunctionCode"
-    ]
+    "195": ["196", "366", "ID", "2", "2", "ContactFunctionCode"]
   },
   {
-    "196": [
-      "197",
-      "373",
-      "DT",
-      "8",
-      "8",
-      "Date"
-    ]
+    "196": ["197", "373", "DT", "8", "8", "Date"]
   },
   {
-    "197": [
-      "198",
-      "374",
-      "ID",
-      "3",
-      "3",
-      "Date/TimeQualifier"
-    ]
+    "197": ["198", "374", "ID", "3", "3", "Date/TimeQualifier"]
   },
   {
-    "198": [
-      "199",
-      "380",
-      "R",
-      "1",
-      "15",
-      "Quantity"
-    ]
+    "198": ["199", "380", "R", "1", "15", "Quantity"]
   },
   {
-    "199": [
-      "200",
-      "426",
-      "ID",
-      "2",
-      "2",
-      "AdjustmentReasonCode"
-    ]
+    "199": ["200", "426", "ID", "2", "2", "AdjustmentReasonCode"]
   },
   {
-    "200": [
-      "201",
-      "429",
-      "AN",
-      "1",
-      "16",
-      "CheckNumber"
-    ]
+    "200": ["201", "429", "AN", "1", "16", "CheckNumber"]
   },
   {
-    "201": [
-      "202",
-      "443",
-      "AN",
-      "1",
-      "20",
-      "ContactInquiryReference"
-    ]
+    "201": ["202", "443", "AN", "1", "20", "ContactInquiryReference"]
   },
   {
-    "202": [
-      "203",
-      "447",
-      "AN",
-      "1",
-      "6",
-      "LoopIdentifierCode"
-    ]
+    "202": ["203", "447", "AN", "1", "6", "LoopIdentifierCode"]
   },
   {
-    "203": [
-      "204",
-      "449",
-      "AN",
-      "1",
-      "80",
-      "FixedFormatInformation"
-    ]
+    "203": ["204", "449", "AN", "1", "80", "FixedFormatInformation"]
   },
   {
-    "204": [
-      "205",
-      "455",
-      "ID",
-      "1",
-      "2",
-      "ResponsibleAgencyCode"
-    ]
+    "204": ["205", "455", "ID", "1", "2", "ResponsibleAgencyCode"]
   },
   {
-    "205": [
-      "206",
-      "478",
-      "ID",
-      "1",
-      "1",
-      "Credit/DebitFlagCode"
-    ]
+    "205": ["206", "478", "ID", "1", "1", "Credit/DebitFlagCode"]
   },
   {
-    "206": [
-      "207",
-      "479",
-      "ID",
-      "2",
-      "2",
-      "FunctionalIdentifierCode"
-    ]
+    "206": ["207", "479", "ID", "2", "2", "FunctionalIdentifierCode"]
   },
   {
     "207": [
@@ -2080,1133 +673,342 @@
     ]
   },
   {
-    "208": [
-      "209",
-      "481",
-      "ID",
-      "1",
-      "2",
-      "TraceTypeCode"
-    ]
-  },
-  {
-    "209": [
-      "210",
-      "482",
-      "ID",
-      "2",
-      "2",
-      "PaymentActionCode"
-    ]
-  },
-  {
-    "210": [
-      "211",
-      "499",
-      "AN",
-      "1",
-      "10",
-      "ConditionValue"
-    ]
-  },
-  {
-    "211": [
-      "212",
-      "506",
-      "ID",
-      "2",
-      "2",
-      "(DFI)IDNumberQualifier"
-    ]
-  },
-  {
-    "212": [
-      "213",
-      "507",
-      "AN",
-      "3",
-      "12",
-      "(DFI)IdentificationNumber"
-    ]
-  },
-  {
-    "213": [
-      "214",
-      "508",
-      "AN",
-      "1",
-      "35",
-      "AccountNumber"
-    ]
-  },
-  {
-    "214": [
-      "215",
-      "509",
-      "AN",
-      "10",
-      "10",
-      "OriginatingCompanyIdentifier"
-    ]
-  },
-  {
-    "215": [
-      "216",
-      "510",
-      "AN",
-      "9",
-      "9",
-      "OriginatingCompanySupplementalCode"
-    ]
-  },
-  {
-    "216": [
-      "217",
-      "522",
-      "ID",
-      "1",
-      "3",
-      "AmountQualifierCode"
-    ]
-  },
-  {
-    "217": [
-      "218",
-      "539",
-      "AN",
-      "1",
-      "25",
-      "VehicleIdentificationNumber"
-    ]
-  },
-  {
-    "218": [
-      "219",
-      "554",
-      "N0",
-      "1",
-      "6",
-      "AssignedNumber"
-    ]
-  },
-  {
-    "219": [
-      "220",
-      "559",
-      "ID",
-      "2",
-      "2",
-      "AgencyQualifierCode"
-    ]
-  },
-  {
-    "220": [
-      "221",
-      "569",
-      "ID",
-      "1",
-      "3",
-      "AccountNumberQualifier"
-    ]
-  },
-  {
-    "221": [
-      "222",
-      "584",
-      "ID",
-      "2",
-      "2",
-      "EmploymentStatusCode"
-    ]
-  },
-  {
-    "222": [
-      "223",
-      "591",
-      "ID",
-      "3",
-      "3",
-      "PaymentMethodCode"
-    ]
-  },
-  {
-    "223": [
-      "224",
-      "594",
-      "ID",
-      "1",
-      "1",
-      "FrequencyCode"
-    ]
-  },
-  {
-    "224": [
-      "225",
-      "609",
-      "N0",
-      "1",
-      "9",
-      "Count"
-    ]
-  },
-  {
-    "225": [
-      "226",
-      "61",
-      "AN",
-      "1",
-      "30",
-      "Free-FormMessage"
-    ]
-  },
-  {
-    "226": [
-      "227",
-      "610",
-      "N2",
-      "1",
-      "15",
-      "Amount"
-    ]
-  },
-  {
-    "227": [
-      "228",
-      "615",
-      "ID",
-      "1",
-      "2",
-      "TimePeriodQualifier"
-    ]
-  },
-  {
-    "228": [
-      "229",
-      "616",
-      "N0",
-      "1",
-      "3",
-      "NumberofPeriods"
-    ]
-  },
-  {
-    "229": [
-      "230",
-      "623",
-      "ID",
-      "2",
-      "2",
-      "TimeCode"
-    ]
-  },
-  {
-    "230": [
-      "231",
-      "628",
-      "AN",
-      "1",
-      "12",
-      "HierarchicalIDNumber"
-    ]
-  },
-  {
-    "231": [
-      "232",
-      "639",
-      "ID",
-      "2",
-      "2",
-      "BasisofUnitPriceCode"
-    ]
-  },
-  {
-    "232": [
-      "233",
-      "640",
-      "ID",
-      "2",
-      "2",
-      "TransactionTypeCode"
-    ]
-  },
-  {
-    "233": [
-      "234",
-      "648",
-      "ID",
-      "3",
-      "3",
-      "PriceMultiplierQualifier"
-    ]
-  },
-  {
-    "234": [
-      "235",
-      "649",
-      "R",
-      "1",
-      "10",
-      "Multiplier"
-    ]
-  },
-  {
-    "235": [
-      "236",
-      "65",
-      "R",
-      "1",
-      "8",
-      "Height"
-    ]
-  },
-  {
-    "236": [
-      "237",
-      "659",
-      "ID",
-      "1",
-      "2",
-      "BasisofVerificationCode"
-    ]
-  },
-  {
-    "237": [
-      "238",
-      "66",
-      "ID",
-      "1",
-      "2",
-      "IdentificationCodeQualifier"
-    ]
-  },
-  {
-    "238": [
-      "239",
-      "662",
-      "ID",
-      "1",
-      "1",
-      "RelationshipCode"
-    ]
-  },
-  {
-    "239": [
-      "240",
-      "669",
-      "ID",
-      "3",
-      "3",
-      "CurrencyMarket/ExchangeCode"
-    ]
-  },
-  {
-    "240": [
-      "241",
-      "67",
-      "AN",
-      "2",
-      "80",
-      "IdentificationCode"
-    ]
-  },
-  {
-    "241": [
-      "242",
-      "672",
-      "ID",
-      "2",
-      "2",
-      "ResourceAuthorizationCode"
-    ]
-  },
-  {
-    "242": [
-      "243",
-      "673",
-      "ID",
-      "2",
-      "2",
-      "QuantityQualifier"
-    ]
-  },
-  {
-    "243": [
-      "244",
-      "675",
-      "ID",
-      "2",
-      "2",
-      "ScheduleTypeQualifier"
-    ]
-  },
-  {
-    "244": [
-      "245",
-      "676",
-      "ID",
-      "1",
-      "1",
-      "ScheduleQuantityQualifier"
-    ]
-  },
-  {
-    "245": [
-      "246",
-      "678",
-      "ID",
-      "1",
-      "2",
-      "Ship/DeliveryorCalendarPatternCode"
-    ]
-  },
-  {
-    "246": [
-      "247",
-      "679",
-      "ID",
-      "1",
-      "1",
-      "Ship/DeliveryPatternTimeCode"
-    ]
-  },
-  {
-    "247": [
-      "248",
-      "680",
-      "ID",
-      "1",
-      "1",
-      "ForecastQualifier"
-    ]
-  },
-  {
-    "248": [
-      "249",
-      "681",
-      "ID",
-      "1",
-      "1",
-      "ForecastTimingQualifier"
-    ]
-  },
-  {
-    "249": [
-      "250",
-      "687",
-      "ID",
-      "2",
-      "2",
-      "ClassofTradeCode"
-    ]
-  },
-  {
-    "250": [
-      "251",
-      "689",
-      "ID",
-      "2",
-      "2",
-      "OccupancyCode"
-    ]
-  },
-  {
-    "251": [
-      "252",
-      "704",
-      "ID",
-      "1",
-      "2",
-      "Paperwork/ReportActionCode"
-    ]
-  },
-  {
-    "252": [
-      "253",
-      "706",
-      "ID",
-      "2",
-      "2",
-      "EntityRelationshipCode"
-    ]
-  },
-  {
-    "253": [
-      "254",
-      "715",
-      "ID",
-      "1",
-      "1",
-      "FunctionalGroupAcknowledgmentCode"
-    ]
-  },
-  {
-    "254": [
-      "255",
-      "716",
-      "ID",
-      "1",
-      "3",
-      "FunctionalGroupSyntaxErrorCode"
-    ]
-  },
-  {
-    "255": [
-      "256",
-      "717",
-      "ID",
-      "1",
-      "1",
-      "TransactionSetAcknowledgmentCode"
-    ]
-  },
-  {
-    "256": [
-      "257",
-      "718",
-      "ID",
-      "1",
-      "3",
-      "TransactionSetSyntaxErrorCode"
-    ]
-  },
-  {
-    "257": [
-      "258",
-      "719",
-      "N0",
-      "1",
-      "6",
-      "SegmentPositioninTransactionSet"
-    ]
-  },
-  {
-    "258": [
-      "259",
-      "720",
-      "ID",
-      "1",
-      "3",
-      "SegmentSyntaxErrorCode"
-    ]
-  },
-  {
-    "259": [
-      "260",
-      "721",
-      "ID",
-      "2",
-      "3",
-      "SegmentIDCode"
-    ]
-  },
-  {
-    "260": [
-      "261",
-      "722",
-      "N0",
-      "1",
-      "2",
-      "ElementPositioninSegment"
-    ]
-  },
-  {
-    "261": [
-      "262",
-      "723",
-      "ID",
-      "1",
-      "3",
-      "DataElementSyntaxErrorCode"
-    ]
-  },
-  {
-    "262": [
-      "263",
-      "724",
-      "AN",
-      "1",
-      "99",
-      "CopyofBadDataElement"
-    ]
-  },
-  {
-    "263": [
-      "264",
-      "725",
-      "N0",
-      "1",
-      "4",
-      "DataElementReferenceNumber"
-    ]
-  },
-  {
-    "264": [
-      "265",
-      "734",
-      "AN",
-      "1",
-      "12",
-      "HierarchicalParentIDNumber"
-    ]
-  },
-  {
-    "265": [
-      "266",
-      "735",
-      "ID",
-      "1",
-      "2",
-      "HierarchicalLevelCode"
-    ]
-  },
-  {
-    "266": [
-      "267",
-      "736",
-      "ID",
-      "1",
-      "1",
-      "HierarchicalChildCode"
-    ]
-  },
-  {
-    "267": [
-      "268",
-      "737",
-      "ID",
-      "2",
-      "2",
-      "MeasurementReferenceIDCode"
-    ]
-  },
-  {
-    "268": [
-      "269",
-      "738",
-      "ID",
-      "1",
-      "3",
-      "MeasurementQualifier"
-    ]
-  },
-  {
-    "269": [
-      "270",
-      "739",
-      "R",
-      "1",
-      "20",
-      "MeasurementValue"
-    ]
-  },
-  {
-    "270": [
-      "271",
-      "740",
-      "R",
-      "1",
-      "20",
-      "RangeMinimum"
-    ]
-  },
-  {
-    "271": [
-      "272",
-      "741",
-      "R",
-      "1",
-      "20",
-      "RangeMaximum"
-    ]
-  },
-  {
-    "272": [
-      "273",
-      "750",
-      "ID",
-      "2",
-      "3",
-      "Product/ProcessCharacteristicCode"
-    ]
-  },
-  {
-    "273": [
-      "274",
-      "751",
-      "AN",
-      "1",
-      "12",
-      "ProductDescriptionCode"
-    ]
-  },
-  {
-    "274": [
-      "275",
-      "752",
-      "ID",
-      "2",
-      "2",
-      "Surface/Layer/PositionCode"
-    ]
-  },
-  {
-    "275": [
-      "276",
-      "754",
-      "AN",
-      "1",
-      "7",
-      "PackagingDescriptionCode"
-    ]
-  },
-  {
-    "276": [
-      "277",
-      "755",
-      "ID",
-      "2",
-      "2",
-      "ReportTypeCode"
-    ]
-  },
-  {
-    "277": [
-      "278",
-      "756",
-      "ID",
-      "1",
-      "2",
-      "ReportTransmissionCode"
-    ]
-  },
-  {
-    "278": [
-      "279",
-      "757",
-      "N0",
-      "1",
-      "2",
-      "ReportCopiesNeeded"
-    ]
-  },
-  {
-    "279": [
-      "280",
-      "782",
-      "R",
-      "1",
-      "18",
-      "MonetaryAmount"
-    ]
-  },
-  {
-    "280": [
-      "281",
-      "786",
-      "ID",
-      "2",
-      "2",
-      "SecurityLevelCode"
-    ]
-  },
-  {
-    "281": [
-      "282",
-      "799",
-      "AN",
-      "1",
-      "30",
-      "VersionIdentifier"
-    ]
-  },
-  {
-    "282": [
-      "283",
-      "81",
-      "R",
-      "1",
-      "10",
-      "Weight"
-    ]
-  },
-  {
-    "283": [
-      "284",
-      "812",
-      "ID",
-      "1",
-      "10",
-      "PaymentFormatCode"
-    ]
-  },
-  {
-    "284": [
-      "285",
-      "819",
-      "ID",
-      "2",
-      "3",
-      "LanguageCode"
-    ]
-  },
-  {
-    "285": [
-      "286",
-      "82",
-      "R",
-      "1",
-      "8",
-      "Length"
-    ]
-  },
-  {
-    "286": [
-      "287",
-      "821",
-      "ID",
-      "3",
-      "3",
-      "SafetyCharacteristic/HazardCode"
-    ]
-  },
-  {
-    "287": [
-      "288",
-      "822",
-      "AN",
-      "1",
-      "15",
-      "SourceSubqualifier"
-    ]
-  },
-  {
-    "288": [
-      "289",
-      "875",
-      "ID",
-      "3",
-      "3",
-      "MaintenanceTypeCode"
-    ]
-  },
-  {
-    "289": [
-      "290",
-      "889",
-      "ID",
-      "1",
-      "1",
-      "Follow-upActionCode"
-    ]
-  },
-  {
-    "290": [
-      "291",
-      "9",
-      "ID",
-      "2",
-      "2",
-      "LateReasonCode"
-    ]
-  },
-  {
-    "291": [
-      "292",
-      "901",
-      "ID",
-      "2",
-      "2",
-      "RejectReasonCode"
-    ]
-  },
-  {
-    "292": [
-      "293",
-      "921",
-      "ID",
-      "2",
-      "2",
-      "DisciplineTypeCode"
-    ]
-  },
-  {
-    "293": [
-      "294",
-      "923",
-      "ID",
-      "1",
-      "1",
-      "PrognosisCode"
-    ]
-  },
-  {
-    "294": [
-      "295",
-      "93",
-      "AN",
-      "1",
-      "60",
-      "Name"
-    ]
-  },
-  {
-    "295": [
-      "296",
-      "933",
-      "AN",
-      "1",
-      "264",
-      "Free-FormMessageText"
-    ]
-  },
-  {
-    "296": [
-      "297",
-      "934",
-      "ID",
-      "2",
-      "2",
-      "PrinterCarriageControlCode"
-    ]
-  },
-  {
-    "297": [
-      "298",
-      "935",
-      "ID",
-      "2",
-      "2",
-      "MeasurementSignificanceCode"
-    ]
-  },
-  {
-    "298": [
-      "299",
-      "936",
-      "ID",
-      "2",
-      "2",
-      "MeasurementAttributeCode"
-    ]
-  },
-  {
-    "299": [
-      "300",
-      "954",
-      "R",
-      "1",
-      "10",
-      "Percent"
-    ]
-  },
-  {
-    "300": [
-      "301",
-      "96",
-      "N0",
-      "1",
-      "10",
-      "NumberofIncludedSegments"
-    ]
-  },
-  {
-    "301": [
-      "302",
-      "97",
-      "N0",
-      "1",
-      "6",
-      "97"
-    ]
-  },
-  {
-    "302": [
-      "303",
-      "98",
-      "ID",
-      "2",
-      "3",
-      "EntityIdentifierCode"
-    ]
-  },
-  {
-    "303": [
-      "304",
-      "I01",
-      "ID",
-      "2",
-      "2",
-      "I01"
-    ]
-  },
-  {
-    "304": [
-      "305",
-      "I02",
-      "AN",
-      "10",
-      "10",
-      "I02"
-    ]
-  },
-  {
-    "305": [
-      "306",
-      "I03",
-      "ID",
-      "2",
-      "2",
-      "I03"
-    ]
-  },
-  {
-    "306": [
-      "307",
-      "I04",
-      "AN",
-      "10",
-      "10",
-      "I04"
-    ]
-  },
-  {
-    "307": [
-      "308",
-      "I05",
-      "ID",
-      "2",
-      "2",
-      "I05"
-    ]
-  },
-  {
-    "308": [
-      "309",
-      "I06",
-      "AN",
-      "15",
-      "15",
-      "I06"
-    ]
-  },
-  {
-    "309": [
-      "310",
-      "I07",
-      "AN",
-      "15",
-      "15",
-      "I07"
-    ]
-  },
-  {
-    "310": [
-      "311",
-      "I08",
-      "DT",
-      "6",
-      "6",
-      "I08"
-    ]
-  },
-  {
-    "311": [
-      "312",
-      "I09",
-      "TM",
-      "4",
-      "4",
-      "I09"
-    ]
-  },
-  {
-    "312": [
-      "313",
-      "I10",
-      "ID",
-      "1",
-      "1",
-      "I10"
-    ]
-  },
-  {
-    "313": [
-      "314",
-      "I11",
-      "ID",
-      "5",
-      "5",
-      "I11"
-    ]
-  },
-  {
-    "314": [
-      "315",
-      "I12",
-      "N0",
-      "9",
-      "9",
-      "I12"
-    ]
-  },
-  {
-    "315": [
-      "316",
-      "I13",
-      "ID",
-      "1",
-      "1",
-      "I13"
-    ]
-  },
-  {
-    "316": [
-      "317",
-      "I14",
-      "ID",
-      "1",
-      "1",
-      "I14"
-    ]
-  },
-  {
-    "317": [
-      "318",
-      "I15",
-      "AN",
-      "1",
-      "1",
-      "I15"
-    ]
-  },
-  {
-    "318": [
-      "319",
-      "I16",
-      "N0",
-      "1",
-      "5",
-      "I16"
-    ]
-  },
-  {
-    "319": [
-      "320",
-      "I17",
-      "ID",
-      "1",
-      "1",
-      "I17"
-    ]
-  },
-  {
-    "320": [
-      "321",
-      "I18",
-      "ID",
-      "3",
-      "3",
-      "I18"
-    ]
+    "208": ["209", "481", "ID", "1", "2", "TraceTypeCode"]
+  },
+  {
+    "209": ["210", "482", "ID", "2", "2", "PaymentActionCode"]
+  },
+  {
+    "210": ["211", "499", "AN", "1", "10", "ConditionValue"]
+  },
+  {
+    "211": ["212", "506", "ID", "2", "2", "(DFI)IDNumberQualifier"]
+  },
+  {
+    "212": ["213", "507", "AN", "3", "12", "(DFI)IdentificationNumber"]
+  },
+  {
+    "213": ["214", "508", "AN", "1", "35", "AccountNumber"]
+  },
+  {
+    "214": ["215", "509", "AN", "10", "10", "OriginatingCompanyIdentifier"]
+  },
+  {
+    "215": ["216", "510", "AN", "9", "9", "OriginatingCompanySupplementalCode"]
+  },
+  {
+    "216": ["217", "522", "ID", "1", "3", "AmountQualifierCode"]
+  },
+  {
+    "217": ["218", "539", "AN", "1", "25", "VehicleIdentificationNumber"]
+  },
+  {
+    "218": ["219", "554", "N0", "1", "6", "AssignedNumber"]
+  },
+  {
+    "219": ["220", "559", "ID", "2", "2", "AgencyQualifierCode"]
+  },
+  {
+    "220": ["221", "569", "ID", "1", "3", "AccountNumberQualifier"]
+  },
+  {
+    "221": ["222", "584", "ID", "2", "2", "EmploymentStatusCode"]
+  },
+  {
+    "222": ["223", "591", "ID", "3", "3", "PaymentMethodCode"]
+  },
+  {
+    "223": ["224", "594", "ID", "1", "1", "FrequencyCode"]
+  },
+  {
+    "224": ["225", "609", "N0", "1", "9", "Count"]
+  },
+  {
+    "225": ["226", "61", "AN", "1", "30", "Free-FormMessage"]
+  },
+  {
+    "226": ["227", "610", "N2", "1", "15", "Amount"]
+  },
+  {
+    "227": ["228", "615", "ID", "1", "2", "TimePeriodQualifier"]
+  },
+  {
+    "228": ["229", "616", "N0", "1", "3", "NumberofPeriods"]
+  },
+  {
+    "229": ["230", "623", "ID", "2", "2", "TimeCode"]
+  },
+  {
+    "230": ["231", "628", "AN", "1", "12", "HierarchicalIDNumber"]
+  },
+  {
+    "231": ["232", "639", "ID", "2", "2", "BasisofUnitPriceCode"]
+  },
+  {
+    "232": ["233", "640", "ID", "2", "2", "TransactionTypeCode"]
+  },
+  {
+    "233": ["234", "648", "ID", "3", "3", "PriceMultiplierQualifier"]
+  },
+  {
+    "234": ["235", "649", "R", "1", "10", "Multiplier"]
+  },
+  {
+    "235": ["236", "65", "R", "1", "8", "Height"]
+  },
+  {
+    "236": ["237", "659", "ID", "1", "2", "BasisofVerificationCode"]
+  },
+  {
+    "237": ["238", "66", "ID", "1", "2", "IdentificationCodeQualifier"]
+  },
+  {
+    "238": ["239", "662", "ID", "1", "1", "RelationshipCode"]
+  },
+  {
+    "239": ["240", "669", "ID", "3", "3", "CurrencyMarket/ExchangeCode"]
+  },
+  {
+    "240": ["241", "67", "AN", "2", "80", "IdentificationCode"]
+  },
+  {
+    "241": ["242", "672", "ID", "2", "2", "ResourceAuthorizationCode"]
+  },
+  {
+    "242": ["243", "673", "ID", "2", "2", "QuantityQualifier"]
+  },
+  {
+    "243": ["244", "675", "ID", "2", "2", "ScheduleTypeQualifier"]
+  },
+  {
+    "244": ["245", "676", "ID", "1", "1", "ScheduleQuantityQualifier"]
+  },
+  {
+    "245": ["246", "678", "ID", "1", "2", "Ship/DeliveryorCalendarPatternCode"]
+  },
+  {
+    "246": ["247", "679", "ID", "1", "1", "Ship/DeliveryPatternTimeCode"]
+  },
+  {
+    "247": ["248", "680", "ID", "1", "1", "ForecastQualifier"]
+  },
+  {
+    "248": ["249", "681", "ID", "1", "1", "ForecastTimingQualifier"]
+  },
+  {
+    "249": ["250", "687", "ID", "2", "2", "ClassofTradeCode"]
+  },
+  {
+    "250": ["251", "689", "ID", "2", "2", "OccupancyCode"]
+  },
+  {
+    "251": ["252", "704", "ID", "1", "2", "Paperwork/ReportActionCode"]
+  },
+  {
+    "252": ["253", "706", "ID", "2", "2", "EntityRelationshipCode"]
+  },
+  {
+    "253": ["254", "715", "ID", "1", "1", "FunctionalGroupAcknowledgmentCode"]
+  },
+  {
+    "254": ["255", "716", "ID", "1", "3", "FunctionalGroupSyntaxErrorCode"]
+  },
+  {
+    "255": ["256", "717", "ID", "1", "1", "TransactionSetAcknowledgmentCode"]
+  },
+  {
+    "256": ["257", "718", "ID", "1", "3", "TransactionSetSyntaxErrorCode"]
+  },
+  {
+    "257": ["258", "719", "N0", "1", "6", "SegmentPositioninTransactionSet"]
+  },
+  {
+    "258": ["259", "720", "ID", "1", "3", "SegmentSyntaxErrorCode"]
+  },
+  {
+    "259": ["260", "721", "ID", "2", "3", "SegmentIDCode"]
+  },
+  {
+    "260": ["261", "722", "N0", "1", "2", "ElementPositioninSegment"]
+  },
+  {
+    "261": ["262", "723", "ID", "1", "3", "DataElementSyntaxErrorCode"]
+  },
+  {
+    "262": ["263", "724", "AN", "1", "99", "CopyofBadDataElement"]
+  },
+  {
+    "263": ["264", "725", "N0", "1", "4", "DataElementReferenceNumber"]
+  },
+  {
+    "264": ["265", "734", "AN", "1", "12", "HierarchicalParentIDNumber"]
+  },
+  {
+    "265": ["266", "735", "ID", "1", "2", "HierarchicalLevelCode"]
+  },
+  {
+    "266": ["267", "736", "ID", "1", "1", "HierarchicalChildCode"]
+  },
+  {
+    "267": ["268", "737", "ID", "2", "2", "MeasurementReferenceIDCode"]
+  },
+  {
+    "268": ["269", "738", "ID", "1", "3", "MeasurementQualifier"]
+  },
+  {
+    "269": ["270", "739", "R", "1", "20", "MeasurementValue"]
+  },
+  {
+    "270": ["271", "740", "R", "1", "20", "RangeMinimum"]
+  },
+  {
+    "271": ["272", "741", "R", "1", "20", "RangeMaximum"]
+  },
+  {
+    "272": ["273", "750", "ID", "2", "3", "Product/ProcessCharacteristicCode"]
+  },
+  {
+    "273": ["274", "751", "AN", "1", "12", "ProductDescriptionCode"]
+  },
+  {
+    "274": ["275", "752", "ID", "2", "2", "Surface/Layer/PositionCode"]
+  },
+  {
+    "275": ["276", "754", "AN", "1", "7", "PackagingDescriptionCode"]
+  },
+  {
+    "276": ["277", "755", "ID", "2", "2", "ReportTypeCode"]
+  },
+  {
+    "277": ["278", "756", "ID", "1", "2", "ReportTransmissionCode"]
+  },
+  {
+    "278": ["279", "757", "N0", "1", "2", "ReportCopiesNeeded"]
+  },
+  {
+    "279": ["280", "782", "R", "1", "18", "MonetaryAmount"]
+  },
+  {
+    "280": ["281", "786", "ID", "2", "2", "SecurityLevelCode"]
+  },
+  {
+    "281": ["282", "799", "AN", "1", "30", "VersionIdentifier"]
+  },
+  {
+    "282": ["283", "81", "R", "1", "10", "Weight"]
+  },
+  {
+    "283": ["284", "812", "ID", "1", "10", "PaymentFormatCode"]
+  },
+  {
+    "284": ["285", "819", "ID", "2", "3", "LanguageCode"]
+  },
+  {
+    "285": ["286", "82", "R", "1", "8", "Length"]
+  },
+  {
+    "286": ["287", "821", "ID", "3", "3", "SafetyCharacteristic/HazardCode"]
+  },
+  {
+    "287": ["288", "822", "AN", "1", "15", "SourceSubqualifier"]
+  },
+  {
+    "288": ["289", "875", "ID", "3", "3", "MaintenanceTypeCode"]
+  },
+  {
+    "289": ["290", "889", "ID", "1", "1", "Follow-upActionCode"]
+  },
+  {
+    "290": ["291", "9", "ID", "2", "2", "LateReasonCode"]
+  },
+  {
+    "291": ["292", "901", "ID", "2", "2", "RejectReasonCode"]
+  },
+  {
+    "292": ["293", "921", "ID", "2", "2", "DisciplineTypeCode"]
+  },
+  {
+    "293": ["294", "923", "ID", "1", "1", "PrognosisCode"]
+  },
+  {
+    "294": ["295", "93", "AN", "1", "60", "Name"]
+  },
+  {
+    "295": ["296", "933", "AN", "1", "264", "Free-FormMessageText"]
+  },
+  {
+    "296": ["297", "934", "ID", "2", "2", "PrinterCarriageControlCode"]
+  },
+  {
+    "297": ["298", "935", "ID", "2", "2", "MeasurementSignificanceCode"]
+  },
+  {
+    "298": ["299", "936", "ID", "2", "2", "MeasurementAttributeCode"]
+  },
+  {
+    "299": ["300", "954", "R", "1", "10", "Percent"]
+  },
+  {
+    "300": ["301", "96", "N0", "1", "10", "NumberofIncludedSegments"]
+  },
+  {
+    "301": ["302", "97", "N0", "1", "6", "97"]
+  },
+  {
+    "302": ["303", "98", "ID", "2", "3", "EntityIdentifierCode"]
+  },
+  {
+    "303": ["304", "I01", "ID", "2", "2", "I01"]
+  },
+  {
+    "304": ["305", "I02", "AN", "10", "10", "I02"]
+  },
+  {
+    "305": ["306", "I03", "ID", "2", "2", "I03"]
+  },
+  {
+    "306": ["307", "I04", "AN", "10", "10", "I04"]
+  },
+  {
+    "307": ["308", "I05", "ID", "2", "2", "I05"]
+  },
+  {
+    "308": ["309", "I06", "AN", "15", "15", "I06"]
+  },
+  {
+    "309": ["310", "I07", "AN", "15", "15", "I07"]
+  },
+  {
+    "310": ["311", "I08", "DT", "6", "6", "I08"]
+  },
+  {
+    "311": ["312", "I09", "TM", "4", "4", "I09"]
+  },
+  {
+    "312": ["313", "I10", "ID", "1", "1", "I10"]
+  },
+  {
+    "313": ["314", "I11", "ID", "5", "5", "I11"]
+  },
+  {
+    "314": ["315", "I12", "N0", "9", "9", "I12"]
+  },
+  {
+    "315": ["316", "I13", "ID", "1", "1", "I13"]
+  },
+  {
+    "316": ["317", "I14", "ID", "1", "1", "I14"]
+  },
+  {
+    "317": ["318", "I15", "AN", "1", "1", "I15"]
+  },
+  {
+    "318": ["319", "I16", "N0", "1", "5", "I16"]
+  },
+  {
+    "319": ["320", "I17", "ID", "1", "1", "I17"]
+  },
+  {
+    "320": ["321", "I18", "ID", "3", "3", "I18"]
   }
 ]
