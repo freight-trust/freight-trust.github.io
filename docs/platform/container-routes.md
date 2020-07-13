@@ -66,4 +66,3 @@
 | 60       | South China \(Yantian\) > West Africa \(Lagos\)                       |
 
 ## License
-© Copyright 2020 | Drewry Shipping Consultants Limited. All Rights Reserved
